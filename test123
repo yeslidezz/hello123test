@@ -2,7 +2,7 @@ queueonteleport("loadstring(game:HttpGet('https://raw.githubusercontent.com/yesl
 
 local Ores = {"Onyx", "Quartz", "Topaz"} -- If none of these ores can be found u will be serverhopped
 
-getgenv().AuthKey = "nigger"
+getgenv().AuthKey = "HUGE_0ZaJEZNIgTr"
 getgenv().LoadSettings = {
     Example_Setting = ExampleValue
 }
